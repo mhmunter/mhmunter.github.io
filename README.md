@@ -1,2 +1,2 @@
 # mhmunter.github.io
-C:\Users\Munter\OneDrive\Pictures\Screenshots\2022-02-10 (1)
+https://github.com/mhmunter/mhmunter.github.io/blob/master/images/2022-02-10%20(1).png
